@@ -1,3 +1,5 @@
+#目前是预览demo，后续更新代码，预览地址 https://gh831014.github.io/PMOS/pmos.html
+
 # PMOS 使用手册 / PMOS User Guide
 
 **版本 Version**: 3.34  
