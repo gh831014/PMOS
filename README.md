@@ -399,4 +399,4 @@ When first using PMOS, the system guides you through initialization:
 ---
 
 **© 2026 PMOS. All rights reserved.**  
-**Made with ❤️ for AI Collaboration**
+
